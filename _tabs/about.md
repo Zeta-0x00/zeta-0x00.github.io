@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> 👋 Hi, I'm Z, a passionate hacker and Security Researcher in the process of becoming a cybersecurity specialist. My mission is to protect digital assets through advanced Red Teaming techniques, exploit development and deep vulnerability analysis.
+> 👋 Hi, I'm Daniel Hoffman, people knows me as `Z`. I'm a passionate hacker and Security Researcher in the process of becoming a cybersecurity specialist. My mission is to protect digital assets through advanced Red Teaming techniques, exploit development and deep vulnerability analysis.
 
 ---
 
