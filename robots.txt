@@ -1,0 +1,14 @@
+---
+permalink: /robots.txt
+# The robots rules
+---
+
+User-agent: *
+
+Sitemap: {{ '/sitemap.xml' | absolute_url }}
+
+Disallow:
+/norobots/
+yandex_678cd031d5288d4f.html
+
+
